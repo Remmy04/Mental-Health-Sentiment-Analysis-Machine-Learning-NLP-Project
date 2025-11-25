@@ -41,7 +41,7 @@ A text-classification project that predicts *Normal* vs *Depressed* statements u
 - Decision Tree (ML)
 - RNN/LSTM (Deep Learning)
 
-📁 Folder: `/Assignment/`
+📁 Folder: `/Mental Health Sentiment Analysis/`
 
 ### 🧪 **2. Machine Learning Exam Project**
 Contains the exam-based ML/NLP tasks, dataset, and Colab notebook.
