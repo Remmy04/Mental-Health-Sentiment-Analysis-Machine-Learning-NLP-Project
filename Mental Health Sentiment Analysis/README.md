@@ -2,6 +2,7 @@
 ### *Data Analytics & Machine Learning (DAML) — Assignment Project*
 
 This project builds a sentiment-classification model that predicts whether a mental-health-related statement is **Normal (0)** or **Depressed (1)**.  
+
 It applies both **Machine Learning (Decision Tree)** and **Deep Learning (RNN/LSTM)** to compare model performance and understand how AI interprets emotional language.
 
 ---
