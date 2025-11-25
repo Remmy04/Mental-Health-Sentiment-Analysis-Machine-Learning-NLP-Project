@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/assets/github-header-banner.png" width="100%">
+</p>
+
 # 📊 Data Analytics & Machine Learning (DAML)
 
 This repository contains my work from the **Data Analytics & Machine Learning** module, focusing on practical applications of **machine learning, deep learning, and natural language processing (NLP)** using Python and Google Colab.
